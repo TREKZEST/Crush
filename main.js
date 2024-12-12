@@ -9,4 +9,3 @@ function moveRandomEl(elm) {
   moveRandom.addEventListener("mouseenter", function (e) {
     moveRandomEl(e.target);
   });
-  
